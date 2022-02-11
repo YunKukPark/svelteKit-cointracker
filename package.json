@@ -32,7 +32,6 @@
   },
   "type": "module",
   "dependencies": {
-    "axios": "^0.25.0",
-    "yrv": "^0.0.52"
+    "axios": "^0.25.0"
   }
 }

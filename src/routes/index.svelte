@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import { getCoins } from '$lib/apis/service';
   import CoinItem from '$lib/components/index/coinItem.svelte';
 

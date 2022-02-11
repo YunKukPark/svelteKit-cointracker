@@ -1,7 +1,6 @@
 <script lang="ts">
   export let coin;
   const { id, name, symbol } = coin;
-  console.log(id);
 </script>
 
 <li class="bg-slate-50 text-gray-700 mb-3 rounded-lg">
